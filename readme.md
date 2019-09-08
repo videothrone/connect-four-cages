@@ -6,7 +6,7 @@ Connect Four Cages is a variation on the [Connect Four](https://en.wikipedia.org
 
 ## Preview
 
-![Connect Four Cages](https://github.com/videothrone/connect-four-cages/blob/master/screenshot.png "Connect Four Cages")
+[![Connect Four Cages](https://github.com/videothrone/connect-four-cages/blob/master/screenshot.png)](https://videothrone.github.io/connect-four-cages/)
 
 ## Demo
 
