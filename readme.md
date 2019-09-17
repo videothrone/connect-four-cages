@@ -27,3 +27,11 @@ HTML, CSS and JavaScript / jQuery
 -   (After a player wins) it's possible to reset the game and play again
 
 -   Different victory animations for each player
+
+## Goals while doing the project
+
+-   Learn to handle game logic in JS / jQuery and interactive elements
+
+## Future
+
+-   Implement mobile responsiveness & additional UI elements
