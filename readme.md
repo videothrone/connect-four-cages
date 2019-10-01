@@ -1,12 +1,12 @@
 # Connect Four Cages
 
-Connect Four Cages is a variation on the [Connect Four](https://en.wikipedia.org/wiki/Connect_Four) game. Done during my stint at [SPICED Academy](https://www.spiced.academy/program/full-stack-web-development/). A tribute to Nicolas Cage.
+Connect Four Cages is a variation on the [Connect Four](https://en.wikipedia.org/wiki/Connect_Four) game. Done during my stint at [SPICED Academy](https://www.spiced.academy/program/full-stack-web-development/). The first proper project we did and also a tribute to Nicolas Cage.
 
 ---
 
 ## Preview
 
-[![Connect Four Cages](https://github.com/videothrone/connect-four-cages/blob/master/screenshot.png)](https://videothrone.github.io/connect-four-cages/)
+[![Image from Gyazo](https://i.gyazo.com/1aac73f1468ed7563e7089631fabb476.gif)](https://gyazo.com/1aac73f1468ed7563e7089631fabb476)
 
 ## Demo
 
@@ -31,6 +31,8 @@ HTML, CSS and JavaScript / jQuery
 ## Goals while doing the project
 
 -   Learn to handle game logic in JS / jQuery and interactive elements
+
+-   Make animations with CSS (for victories, UI etc.)
 
 ## Future
 
