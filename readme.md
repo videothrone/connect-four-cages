@@ -6,7 +6,7 @@ Connect Four Cages is a variation on the [Connect Four](https://en.wikipedia.org
 
 ## Preview
 
-[![Image from Gyazo](https://i.gyazo.com/1aac73f1468ed7563e7089631fabb476.gif)](https://gyazo.com/1aac73f1468ed7563e7089631fabb476)
+[![Connect Four Cages](https://i.gyazo.com/1aac73f1468ed7563e7089631fabb476.gif)](https://videothrone.github.io/connect-four-cages/)
 
 ## Demo
 
